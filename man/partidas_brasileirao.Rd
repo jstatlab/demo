@@ -18,7 +18,7 @@ A tibble with 8026 rows and 8 columns.
 }
 }
 \source{
-\url{https://blog.curso-r.com/posts/2021-03-02-brasileirao/}
+\url{https://github.com/williamorim/brasileirao}
 }
 \usage{
 partidas_brasileirao

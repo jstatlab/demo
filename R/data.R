@@ -13,5 +13,5 @@
 #'  \item{gols_visitante}{dbl goals away}
 #'  \item{quem_ganhou}{chr winner}
 #' }
-#' @source \url{https://blog.curso-r.com/posts/2021-03-02-brasileirao/}
+#' @source \url{https://github.com/williamorim/brasileirao}
 "partidas_brasileirao"
