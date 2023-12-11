@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of demo is to demonstrate how build a simple package in R
+The goal of `{demo}` is to demonstrate how build a simple package in R
 
 ## Installation
 
