@@ -1,0 +1,11 @@
+bibentry(
+  bibtype  = "Article",
+  title    = "A new package called demo",
+  author   = "JS",
+  journal  = "Journal Statistical Software",
+  year     = "2023",
+  volume   = "1",
+  number   = "2",
+  pages    = "12-19",
+  doi      = "1234567/100.001"
+)

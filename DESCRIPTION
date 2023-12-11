@@ -17,3 +17,7 @@ BugReports: https://github.com/jstatlab/demo/issues
 Imports: 
     dados,
     dplyr
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
