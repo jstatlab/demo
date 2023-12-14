@@ -4,6 +4,8 @@
 # demo
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/jstatlab/demo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jstatlab/demo/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of `{demo}` is to demonstrate how build a simple package in R
