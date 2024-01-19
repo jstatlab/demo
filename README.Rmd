@@ -18,6 +18,11 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/jstatlab/demo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jstatlab/demo/actions/workflows/R-CMD-check.yaml)
+
+[![DOI:10.1016/j.rser.2023.113990](https://img.shields.io/badge/DOI-10.1016/j.rser.2023.113990-FAB70C?logo=DOI&colorIcon.svg)](https://doi.org/10.1016/j.rser.2023.113990)
+
+[![ORCiD:0000-0001-7414-1154](https://img.shields.io/badge/ORCiD-0000--0001--7414--1154-A6CE39?logo=ORCID&colorIcon.svg)](https://orcid.org/0000-0001-7414-1154)
+
 <!-- badges: end -->
 
 The goal of `{demo}` is to demonstrate how build a simple package in R
